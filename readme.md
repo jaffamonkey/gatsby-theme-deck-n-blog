@@ -1,7 +1,3 @@
-# Deck 'n' Blog
-
-You write the MDX for your [mdx-deck](https://github.com/jxnblk/mdx-deck)s, and this Gatsby theme creates the deck and the blog post for you.
-
 ## Installation
 
 To use this theme in your Gatsby sites, follow these instructions:
